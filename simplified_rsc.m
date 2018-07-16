@@ -1,4 +1,4 @@
-salam
+
 function [x_hat] = simplified_rsc(W_D, W_y)
 
       lambda = 1e-4;
